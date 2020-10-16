@@ -34,8 +34,6 @@ The following **required** functionality is completed:
 - [x] User stays logged in across restarts. 
 - [X] User can view tweets with the user profile picture, username, and tweet text. 
 
-The following **bonus** features are implemented:
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
